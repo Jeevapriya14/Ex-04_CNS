@@ -2,7 +2,7 @@
 # DEMONSTRATION OF INTRUSION DETECTION SYSTEM(IDS) 
  
 # AIM: 
-         To demonstrate Intrusion Detection System (IDS) using Snort software tool. 
+        To demonstrate Intrusion Detection System (IDS) using Snort software tool. 
  
  
 # STEPS ON CONFIGURING AND INTRUSION DETECTION: 
